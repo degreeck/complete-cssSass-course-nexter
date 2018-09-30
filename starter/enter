@@ -1,0 +1,63 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+ Initial commit
+#
+ Changes to be committed:
+	new file:   css/style.comp.css
+	new file:   css/style.css
+	new file:   img/back.jpg
+	new file:   img/favicon.png
+	new file:   img/gal-1.jpeg
+	new file:   img/gal-10.jpeg
+	new file:   img/gal-11.jpeg
+	new file:   img/gal-12.jpeg
+	new file:   img/gal-13.jpeg
+
+
+	new file:   img/gal-14.jpeg
+	new file:   img/gal-2.jpeg
+	new file:   img/gal-3.jpeg
+	new file:   img/gal-4.jpeg
+	new file:   img/gal-5.jpeg
+	new file:   img/gal-6.jpeg
+	new file:   img/gal-7.jpeg
+	new file:   img/gal-8.jpeg
+	new file:   img/gal-9.jpeg
+	new file:   img/hero.jpeg
+	new file:   img/house-1.jpeg
+	new file:   img/house-2.jpeg
+	new file:   img/house-3.jpeg
+	new file:   img/house-4.jpeg
+	new file:   img/house-5.jpeg
+	new file:   img/house-6.jpeg
+	new file:   img/logo-bbc.png
+	new file:   img/logo-bi.png
+	new file:   img/logo-forbes.png
+	new file:   img/logo-techcrunch.png
+	new file:   img/logo.png
+	new file:   img/realtor-1.jpeg
+	new file:   img/realtor-2.jpeg
+	new file:   img/realtor-3.jpeg
+	new file:   img/sprite.svg
+	new file:   img/story-1.jpeg
+	new file:   img/story-2.jpeg
+	new file:   img/text.txt
+	new file:   index.html
+	new file:   package-lock.json
+	new file:   package.json
+
+        new file:   sass/_base.scss
+	new file:   sass/_features.scss
+	new file:   sass/_footer.scss
+	new file:   sass/_gallery.scss
+	new file:   sass/_header.scss
+	new file:   sass/_homes.scss
+	new file:   sass/_realtors.scss
+	new file:   sass/_sidebar.scss
+	new file:   sass/_story.scss
+	new file:   sass/_typography.scss
+	new file:   sass/main.scss
+
